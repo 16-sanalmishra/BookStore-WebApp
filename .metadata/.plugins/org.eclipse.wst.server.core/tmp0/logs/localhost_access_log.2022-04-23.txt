@@ -1,0 +1,6 @@
+127.0.0.1 - - [23/Apr/2022:23:06:33 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [23/Apr/2022:23:06:40 +0530] "GET /BookStore_WebApp/addBook.html HTTP/1.1" 200 529
+0:0:0:0:0:0:0:1 - - [23/Apr/2022:23:06:41 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [23/Apr/2022:23:06:49 +0530] "POST /BookStore_WebApp/addBookServlet HTTP/1.1" 200 -
+127.0.0.1 - - [23/Apr/2022:23:12:26 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [23/Apr/2022:23:12:54 +0530] "POST /BookStore_WebApp/addBookServlet HTTP/1.1" 200 153
